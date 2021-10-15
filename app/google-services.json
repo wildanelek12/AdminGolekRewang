@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "698493959756",
+    "firebase_url": "https://golekrewang-default-rtdb.firebaseio.com",
+    "project_id": "golekrewang",
+    "storage_bucket": "golekrewang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698493959756:android:fe2d39ed863c6d01eabee9",
+        "android_client_info": {
+          "package_name": "com.codes.admingolekrewang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698493959756-9fls72ulqikag0c1tfn59m6vudum9djk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YTvWRTTgIrkeqiwoRnmtPsEfuqAsAzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698493959756-9fls72ulqikag0c1tfn59m6vudum9djk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698493959756:android:72d89587c0df04cfeabee9",
+        "android_client_info": {
+          "package_name": "com.codes.golekrewang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698493959756-9fls72ulqikag0c1tfn59m6vudum9djk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YTvWRTTgIrkeqiwoRnmtPsEfuqAsAzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698493959756-9fls72ulqikag0c1tfn59m6vudum9djk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
